@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Murillo Lopes
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor`**
 
 Desenvolvedor com experiência no desenvolvimento de aplicações web e mobile. Trabalho com Flutter, React, JavaScript, HTML, CSS e possuo uma base sólida em Java, o que me permite transitar entre diferentes camadas da aplicação com facilidade. Valorizo a construção de soluções bem estruturadas, com foco em performance, usabilidade e boas práticas de desenvolvimento. Acredito no aprendizado contínuo, no trabalho em equipe e no impacto positivo que a tecnologia pode gerar quando aplicada com propósito.
 
