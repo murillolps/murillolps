@@ -4,25 +4,6 @@
 
 Desenvolvedor com experiência no desenvolvimento de aplicações web e mobile. Trabalho com Flutter, React, JavaScript, HTML, CSS e possuo uma base sólida em Java, o que me permite transitar entre diferentes camadas da aplicação com facilidade. Valorizo a construção de soluções bem estruturadas, com foco em performance, usabilidade e boas práticas de desenvolvimento. Acredito no aprendizado contínuo, no trabalho em equipe e no impacto positivo que a tecnologia pode gerar quando aplicada com propósito.
 
-
-
-<p align="left">
-    <a href="https://github.com/murillolps?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/murillolps?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/murillolps?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
