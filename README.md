@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Desenvolvedor com experiência prática em aplicações web e mobile, atuando com Flutter, React, JavaScript, HTML e CSS, além de conhecimento de Java pela formação acadêmica. Gosto de construir soluções bem estruturadas, com atenção a performance, usabilidade e boas práticas de código. Estou sempre aprendendo, gosto de trocar ideia em equipe e de ver o impacto real que a tecnologia gera quando bem aplicada.
+Desenvolvedor com experiência prática em aplicações web e mobile, atuando com Flutter, React, JavaScript, TypeScript, HTML e CSS, além de conhecimento de Java pela formação acadêmica. Gosto de construir soluções bem estruturadas, com atenção a performance, usabilidade e boas práticas de código. Estou sempre aprendendo, gosto de trocar ideia em equipe e de ver o impacto real que a tecnologia gera quando bem aplicada.
 
 ---
 
